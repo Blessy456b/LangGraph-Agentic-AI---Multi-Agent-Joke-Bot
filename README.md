@@ -27,7 +27,6 @@ pip install -r requirements.txt
 ```
 Set your Groq API key:
 ```bash
-Copy code
 export GROQ_API_KEY="your_api_key_here"
 ```
 

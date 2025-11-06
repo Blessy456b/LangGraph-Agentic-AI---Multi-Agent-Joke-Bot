@@ -1,6 +1,6 @@
 # 🤖 Multi-Agent LangGraph Joke Bot
 
-A **LangGraph-based Agentic AI system** that generates, critiques, scores, and rewrites jokes using the **Groq LLM** (LLaMA 3.1–8B).  
+A **LangGraph-based Agentic AI system** that generates, critiques, scores, and rewrites jokes using the **Groq LLM** (LLaMA 3.1–8B-instant).  
 Built to demonstrate multi-agent orchestration, memory persistence, and adaptive humor scoring.
 
 ---
@@ -49,6 +49,7 @@ Enter a topic: airplane
 😇 Family-Friendly Version: Already suitable for all audiences.
 🧩 Joke Memory: Tracks all previous jokes.
 ```
+![Sample_Joke_Output](Sample_Image_1.png)
 ## 🧱 Architecture
 Each agent is a LangGraph node:
 

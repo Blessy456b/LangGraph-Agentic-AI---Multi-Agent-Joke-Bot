@@ -24,8 +24,8 @@ cd multi-agent-joke-bot
 python -m venv joke_env
 source joke_env/bin/activate
 pip install -r requirements.txt
+```
 Set your Groq API key:
-
 ```bash
 Copy code
 export GROQ_API_KEY="your_api_key_here"
@@ -39,8 +39,7 @@ python multi_agent_joke_bot.py
 ```
 Example interaction:
 ```
-pgsql
-Copy code
+
 😂 Welcome to the Multi-Agent LangGraph Joke Bot (with Memory + HumorScore)!
 Type a topic for a joke or 'exit' to quit.
 

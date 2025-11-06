@@ -33,7 +33,7 @@ export GROQ_API_KEY="your_api_key_here"
 
 ## ▶️ Run the Bot
 ```bash
-Copy code
+
 cd src
 python multi_agent_joke_bot.py
 ```
